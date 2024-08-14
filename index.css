@@ -1,0 +1,36 @@
+form{
+    text-align: center;
+    background-color: grey;
+    margin: 0px;
+}
+.end{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    position: relative;
+    bottom: 20px;
+}
+input{
+    border: none;
+    outline: none;
+}
+textarea{
+    border: none;
+    outline: none;
+}
+#Submit{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px;
+    position: relative;
+    right: 10px;
+}
+#Clear{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px;
+    position: relative;
+    right: -10px;
+}
